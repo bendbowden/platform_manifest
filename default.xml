@@ -135,7 +135,7 @@
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/Contacts" name="ModADroid/platform_packages_apps_contacts" remote="github" />
+  <project path="packages/apps/Contacts" name="teamSbrissenmod/platform_packages_apps_contacts" remote="github" />
   <project path="packages/apps/DeskClock" name="jt1134/android_packages_apps_DeskClock" remote="github" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="gingerbread" />
@@ -146,7 +146,7 @@
   <project path="packages/apps/Mms" name="jt1134/android_packages_apps_Mms" remote="github" />
   <project path="packages/apps/Music" name="ModADroid/android_packages_apps_Music" remote="github" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
-  <project path="packages/apps/Phone" name="teamSbrissenmod/platform_packages_apps_phone" remote="github" />
+  <project path="packages/apps/Phone" name="teamSbrissenmod/platform_packages_apps_phonec" remote="github" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/Settings" name="ModADroid/platform_packages_apps_settings" remote="github" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
