@@ -188,6 +188,7 @@
   <project path="vendor/gingerbread" name="OMJ-/gingerbread_vendor" remote="github" revision="master" />
   <project path="vendor/mau5_vendor" name="OMJ-/mau5_vendor" remote="github" revision="master" />
   <project path="vendor/honeycomb" name="bendbowden/honeycomb_overlay_vendor" remote="github" revision="master" />
+  <project path="vendor/dark" name="bendbowden/dark_aosp_overlay_vendor" remote="github" />
   <project path="vendor/nextheme" name="jt1134/android_vendor_nextheme" remote="github" />
   <project path="vendor/samsung/fascinate" name="ModADroid/vendor_samsung_proprietary" remote="github" />
   <project path="vendor/samsung/vzwtab" name="ModADroid/android_vendor_samsung_vzwtab" remote="github" />
