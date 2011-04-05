@@ -27,7 +27,6 @@
   <project path="device/common" name="device/common" />
   <project path="device/samsung/fascinate" name="ModADroid/android_device_samsung_fascinate" remote="github" />
   <project path="device/samsung/common" name="ModADroid/android_device_samsung_common" remote="github" revision="master" />
-  <project path="device/samsung/vzwtab" name="ModADroid/android_device_samsung_vzwtab" remote="github" />
 
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/astl" name="platform/external/astl" />
@@ -191,5 +190,4 @@
   <project path="vendor/dark" name="bendbowden/dark_aosp_overlay_vendor" remote="github" />
   <project path="vendor/nextheme" name="jt1134/android_vendor_nextheme" remote="github" />
   <project path="vendor/samsung/fascinate" name="ModADroid/vendor_samsung_proprietary" remote="github" />
-  <project path="vendor/samsung/vzwtab" name="ModADroid/android_vendor_samsung_vzwtab" remote="github" />
 </manifest>
