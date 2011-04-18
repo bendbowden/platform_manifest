@@ -133,7 +133,7 @@
   <project path="packages/apps/Browser" name="ModADroid/platform_packages_apps_browser" remote="github" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
-  <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
+  <project path="packages/apps/Camera" name="ModADroid/android_packages_apps_Camera" remote="github" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="teamSbrissenmod/platform_packages_apps_contacts" remote="github" />
   <project path="packages/apps/DeskClock" name="jt1134/android_packages_apps_DeskClock" remote="github" />
